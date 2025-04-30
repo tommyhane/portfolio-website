@@ -1,0 +1,40 @@
+Site: https://playground.com/
+
+Default Configuration: 
+
+- Model: Stable Diffusion XL
+
+- Filter: RealVis XL
+
+- Image Dimensions: 1024*576 (16:9)
+
+- Quality & Details: 30 steps
+
+--------------------------------------------------
+
+Home Page Background
+
+- Prompt: "A vast cosmic nebula at the edge of the universe, illuminated by a starfield stretching into infinity. The scene is dark, with vibrant glows from colorful gas clouds, twinkling stars, and faint auroras of energy. The atmosphere is serene yet awe-inspiring, with ethereal particles and soft glimmers of light drifting through the void. The color scheme focuses on deep space blacks and blues, with highlights in neon purples, pinks, and soft whites, creating an inviting and mysterious scene that blends the beauty of a stellar expanse with the enigma of the cosmos."
+
+
+--------------------------------------------------
+
+About Page Background
+
+- Prompt: "A tranquil exoplanet landscape at dawn, with bioluminescent alien flora glowing softly under a twin-star sunrise. Wisps of cosmic mist drift across the scene, reflecting light from distant galaxies. The terrain features crystalline rock formations and reflective pools, evoking a serene and otherworldly ambiance."
+
+
+--------------------------------------------------
+
+Projects Page Background
+
+- Prompt: "A futuristic space station workshop orbiting a distant planet, illuminated by holographic displays and glowing plasma conduits. The interior is filled with advanced technology—floating data screens, robotic arms crafting intricate devices, and star charts projected in mid-air. The backdrop blends sleek metallic structures with views of a vibrant nebula through massive windows, suggesting a hub where innovative space projects and discoveries are born."
+
+
+--------------------------------------------------
+
+Contact Page Background
+
+- Prompt: "A serene asteroid field at twilight, with a massive, ancient alien monolith floating among the rocks, etched with glowing glyphs. Bioluminescent space flora clings to nearby asteroids, emitting soft light. Shimmering cosmic dust and faint energy wisps create an ethereal glow, with ambient starlight casting a mystical atmosphere."
+
+
